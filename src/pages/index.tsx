@@ -1,4 +1,11 @@
 import React from "react";
-const Home = () => <>hello</>;
+import styled from "styled-components";
+const Heading = styled.p``;
+const Container = styled.div``;
+const Home = () => (
+  <Container>
+    <Heading>hello</Heading>
+  </Container>
+);
 
 export default Home;
