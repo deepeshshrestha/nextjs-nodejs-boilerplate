@@ -1,0 +1,10 @@
+.env
+.next
+.DS_Store
+
+node_modules
+
+dist
+static
+build
+tmp
