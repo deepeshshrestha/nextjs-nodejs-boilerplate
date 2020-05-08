@@ -8,3 +8,5 @@ dist
 static
 build
 tmp
+
+yarn-error.log

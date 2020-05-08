@@ -22,5 +22,8 @@
     "dotenv": "^8.2.0",
     "nodemon": "^2.0.3",
     "typescript": "^3.8.3"
+  },
+  "scripts": {
+    "dev": "next"
   }
 }
